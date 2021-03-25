@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "dotenv": "^8.2.0",
-    "got": "^11.8.2"
+    "dotenv": "^8.2.0"
   }
 }
